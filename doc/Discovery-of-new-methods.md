@@ -15,4 +15,5 @@ Dreams:
 Solutions/proposal:
 1. Stronger collaborations
 2. Build from scratch the technology with clinicians, or collaborate with them from the beginning
-3. Centralized resource allocation to process the data 
+3. Centralized resource allocation to process the data
+4. Need of proof-of-concept technology
