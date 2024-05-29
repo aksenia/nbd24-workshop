@@ -2,7 +2,9 @@
 
 ### solutions to validation of pipelines:
 
-1) standard data (GIAB, local data)
+1) check against standard data (e.g., GIAB, local data)
+1) against other "gold standard" pipelines (e.g., GATK Best Practices)
 1) CI/CD to monitor results
+1) 
 
 
