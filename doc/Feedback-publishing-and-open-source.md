@@ -21,7 +21,7 @@ Camilla Jensen
 Haukeland HUS
 Seksjon for Bioinformatikk
 Bioinf.
-Background evolutionary physiology
+Background evolutionary ecology
 Dev. 
 
 Lars Føleide
