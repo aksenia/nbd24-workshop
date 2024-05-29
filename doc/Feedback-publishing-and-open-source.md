@@ -52,15 +52,25 @@ obfuscate code as result
 - national genome center -> make it happen
 - TBs of data
 - need access card to access data
+- What if you upload something by a mistake (github)?
+- heptic data
+- dev containers with git
   
 > Andreas
 Dream about national HPC system
 
 > Laura
 How to make data collaboration safe?
+- keep in mind dream scenario!
+- solution: publish
+-   include data that was used
+-   remaining data just disregarded
+-   
 
 > Olav
 Solution: Separate data from code
+Git history
+- What liscense?
 
 
 
